@@ -24,11 +24,10 @@
 <!-- Certification:END -->
 
 ### Tools
- TECHNOLOGIES
+ <b>TECHNOLOGIES
 <br> HTML
 <br> CSS
-3
-.2140[Projects](https://github.com/artichokeee/checklist)
+<br>[Projects](https://github.com/artichokeee/checklist)
 
 ### Tools
 ![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
@@ -39,8 +38,6 @@
 ![Header](https://img.shields.io/badge/JMeter-090909?style=for-the-badge&logo=jmeter&logoColor=7ede2b)
 ![Header](https://img.shields.io/badge/Microsoft%20Visual%20Studio-090909?style=for-the-badge&logo=microsoftvisualstudio&logoColor=7ede2b)
 ![Header](https://img.shields.io/badge/Burp%20Suit-090909?style=for-the-badge&logo=burpsuite&logoColor=7ede2b)
-![Header](
-
 
 ### DATABASES
 ![Header](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00618a)
