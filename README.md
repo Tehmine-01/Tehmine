@@ -24,10 +24,11 @@
 <!-- Certification:END -->
 
 ### Tools
-- TECHNOLOGIES
+ TECHNOLOGIES
 <br> HTML
 <br> CSS
-- [Projects](https://github.com/artichokeee/checklist)
+3
+.2140[Projects](https://github.com/artichokeee/checklist)
 
 ### Tools
 ![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
@@ -53,9 +54,7 @@
 - [SQL Queries](https://github.com/artichokeee/SQL)
 - [Postman Collections](https://github.com/artichokeee/postman)
 
-### Contact with Me
-[![Header](https://img.shields.io/badge/Youtube-090909?style=for-the-badge&logo=youtube&logoColor=f70000)](https://www.youtube.com/ArtsiomRusauQALife?sub_confirmation=1)
+### Contact with me
+[![Header](https://img.shields.io/badge/Mobile%20Phone-090909?style=for-the-badge&logo=mobilephone&logoColor=7ede2b)](+374 93555175)
 
 [![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/tehmine-hambardzumyan-653165100/)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=artichokeee&show_icons=true&theme=radical)
