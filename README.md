@@ -5,11 +5,12 @@
 ## Education
 <!-- Education:START -->
 - INTERNATIONAL SCIENTIFIC - EDUCATIONAL CENTER OF THE NAS RA  
-  <br> Department of Finances
+     Department of Finances
    <br> Master's Degree
     <br>  2010 - 2012
+    <br> 
 - YEREVAN STATE UNIVERSITY    
-  <br> Department of Applied Mathematics and Informatics
+  Department of Applied Mathematics and Informatics
    <br> Bachelor Degree
     <br> 2003 - 2007
 <!-- Education:END -->
@@ -23,11 +24,18 @@
   <br> Date of Achievement: 29/01/2020
 <!-- Certification:END -->
 
-### Tools
- <b>TECHNOLOGIES
+### LANGUAGES
+![Header](https://img.shields.io/badge/Java%20Script-090909?style=for-the-badge&logo=javascript&logoColor=7ede2b)
+![Header](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python&logoColor=7ede2b)
+
+### <b> TECHNOLOGIES
 <br> HTML
 <br> CSS
 <br>[Projects](https://github.com/artichokeee/checklist)
+
+### DATABASES
+![Header](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00618a)
+![Header](https://img.shields.io/badge/SQLite-090909?style=for-the-badge&logo=sqlite&logoColor=7ede2b)
 
 ### Tools
 ![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
@@ -39,9 +47,6 @@
 ![Header](https://img.shields.io/badge/Microsoft%20Visual%20Studio-090909?style=for-the-badge&logo=microsoftvisualstudio&logoColor=7ede2b)
 ![Header](https://img.shields.io/badge/Burp%20Suit-090909?style=for-the-badge&logo=burpsuite&logoColor=7ede2b)
 
-### DATABASES
-![Header](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00618a)
-![Header](https://img.shields.io/badge/SQLite-090909?style=for-the-badge&logo=sqlite&logoColor=7ede2b)
 
 ### Testing Documentation
 
@@ -52,6 +57,7 @@
 - [Postman Collections](https://github.com/artichokeee/postman)
 
 ### Contact with me
-[![Header](https://img.shields.io/badge/Mobile%20Phone-090909?style=for-the-badge&logo=mobilephone&logoColor=7ede2b)](+374 93555175)
+[![Header](https://img.shields.io/badge/Mobile%20Phone-090909?style=for-the-badge&logo=mobilephone&logoColor=7ede2b)
+<br> +374 93555175
 
 [![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/tehmine-hambardzumyan-653165100/)
