@@ -6,10 +6,10 @@
 ## Education
 
 <!-- Education:START -->
-- (NTERNATIONAL SCIENTIFIC - EDUCATIONAL CENTER OF THE NAS RA)   
-   (Department of Finances)
-    (Master's Degree)
-      (2010 - 2012)
+- NTERNATIONAL SCIENTIFIC - EDUCATIONAL CENTER OF THE NAS RA  
+  <br> Department of Finances
+   <br> Master's Degree
+    <br>  2010 - 2012
 - (YEREVAN STATE UNIVERSITY)    
    (Department of Applied Mathematics and Informatics)
     (Bachelor Degree)
