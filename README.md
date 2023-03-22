@@ -1,19 +1,17 @@
 [![Header](https://github.com/artichokeee/artichokeee/blob/main/assets/Frame%20635%20(3).png)](https://artsiomrusau.com/)
 ## I'm a QA Engineer. 
-## A creator 
 ## [Link to my CV](https://drive.google.com/file/d/1HaeXlUL-Wttj7Vw5niHmE1ggbuYMVVBs/view?usp=sharing/)
 
 ## Education
-
 <!-- Education:START -->
-- NTERNATIONAL SCIENTIFIC - EDUCATIONAL CENTER OF THE NAS RA  
+- INTERNATIONAL SCIENTIFIC - EDUCATIONAL CENTER OF THE NAS RA  
   <br> Department of Finances
    <br> Master's Degree
     <br>  2010 - 2012
-- (YEREVAN STATE UNIVERSITY)    
-   (Department of Applied Mathematics and Informatics)
-    (Bachelor Degree)
-      (2003 - 2007)
+- YEREVAN STATE UNIVERSITY    
+  <br> Department of Applied Mathematics and Informatics
+   <br> Bachelor Degree
+    <br> 2003 - 2007
 - [Внешкольный контент из Дубай - Lost Chambers Aquarium](https://www.youtube.com/watch?v=yQ8QENO4T6w)
 <!-- Education:END -->
 
