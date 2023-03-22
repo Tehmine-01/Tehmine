@@ -6,14 +6,14 @@
 ## Education
 
 <!-- Education:START -->
-- [NTERNATIONAL SCIENTIFIC - EDUCATIONAL CENTER OF THE NAS RA]    
-   [Department of Finances]
-    [Master's Degree]
-      [2010 - 2012]
-- [YEREVAN STATE UNIVERSITY]    
-   [Department of Applied Mathematics and Informatics]
-    [Bachelor Degree]
-      [2003 - 2007]
+- (NTERNATIONAL SCIENTIFIC - EDUCATIONAL CENTER OF THE NAS RA)   
+   (Department of Finances)
+    (Master's Degree)
+      (2010 - 2012)
+- (YEREVAN STATE UNIVERSITY)    
+   (Department of Applied Mathematics and Informatics)
+    (Bachelor Degree)
+      (2003 - 2007)
 - [Внешкольный контент из Дубай - Lost Chambers Aquarium](https://www.youtube.com/watch?v=yQ8QENO4T6w)
 <!-- Education:END -->
 
