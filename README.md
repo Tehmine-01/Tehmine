@@ -29,8 +29,8 @@
 ![Header](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python&logoColor=7ede2b)
 
 ### <b> TECHNOLOGIES
-<br> HTML
-<br> CSS
+![Header](https://img.shields.io/badge/HTML-090909?style=for-the-badge&logo=html&logoColor=7ede2b)
+![Header](https://img.shields.io/badge/CSS-090909?style=for-the-badge&logo=css&logoColor=7ede2b)
 <br>[Projects](https://github.com/artichokeee/checklist)
 
 ### DATABASES
@@ -57,7 +57,7 @@
 - [Postman Collections](https://github.com/artichokeee/postman)
 
 ### Contact with me
-[![Header](https://img.shields.io/badge/Mobile%20Phone-090909?style=for-the-badge&logo=mobilephone&logoColor=7ede2b)
+![Header](https://img.shields.io/badge/Mobile%20Phone-090909?style=for-the-badge&logo=mobilephone&logoColor=7ede2b)
 <br> +374 93555175
 
 [![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/tehmine-hambardzumyan-653165100/)
