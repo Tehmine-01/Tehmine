@@ -1,5 +1,5 @@
-[![Header](https://github.com/artichokeee/artichokeee/blob/main/assets/Frame%20635%20(3).png)](https://artsiomrusau.com/)
-## I'm a QA Engineer. 
+
+## I'm TEHMINE and I'm a QA Engineer. 
 ## [Link to my CV](https://drive.google.com/file/d/1HaeXlUL-Wttj7Vw5niHmE1ggbuYMVVBs/view?usp=sharing/)
 
 ## Education
@@ -31,7 +31,7 @@
 ### <b> TECHNOLOGIES
 ![Header](https://img.shields.io/badge/HTML-090909?style=for-the-badge&logo=html&logoColor=7ede2b)
 ![Header](https://img.shields.io/badge/CSS-090909?style=for-the-badge&logo=css&logoColor=7ede2b)
-<br>[Projects](https://github.com/artichokeee/checklist)
+<br>[Projects](https://github.com/Tehmine-01/CV_projects)
 
 ### DATABASES
 ![Header](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00618a)
@@ -50,14 +50,15 @@
 
 ### Testing Documentation
 
-- [Checklists](https://github.com/artichokeee/checklist)
-- [Test-Suites and Test-Cases](https://github.com/artichokeee/test-cases)
-- [Bug-Reports](https://github.com/artichokeee/bug-reports)
-- [SQL Queries](https://github.com/artichokeee/SQL)
-- [Postman Collections](https://github.com/artichokeee/postman)
+- [Checklists](https://github.com/Tehmine-01/checklist)
+- [Test-Suites and Test-Cases](https://github.com/Tehmine-01/Test-Cases)
+- [Bug-Reports](https://github.com/Tehmine-01/Bug-Reports)
+- [SQL Queries](https://github.com/Tehmine-01/SQL)
+- [Postman Collections](https://github.com/Tehmine-01/Postman-Collections)
 
-### Contact with me
+### Connect with me:
 ![Header](https://img.shields.io/badge/Mobile%20Phone-090909?style=for-the-badge&logo=mobilephone&logoColor=7ede2b)
 <br> +374 93555175
+![Header](https://img.shields.io/badge/email-090909?style=for-the-badge&logo=email&logoColor=7ede2b)
 
 [![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/tehmine-hambardzumyan-653165100/)
