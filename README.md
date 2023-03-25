@@ -1,6 +1,5 @@
 
 ## I'm TEHMINE and I'm a QA Engineer. 
-## [Link to my CV](https://drive.google.com/file/d/1HaeXlUL-Wttj7Vw5niHmE1ggbuYMVVBs/view?usp=sharing/)
 
 ## Education
 <!-- Education:START -->
@@ -58,7 +57,6 @@
 
 ### Connect with me:
 ![Header](https://img.shields.io/badge/Mobile%20Phone-090909?style=for-the-badge&logo=mobilephone&logoColor=7ede2b)
-<br> +374 93555175
-![Header](https://img.shields.io/badge/email-090909?style=for-the-badge&logo=email&logoColor=7ede2b)
+<br> +374 93555175 <br>
 
 [![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/tehmine-hambardzumyan-653165100/)
