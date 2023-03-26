@@ -1,27 +1,6 @@
 
 ## I'm TEHMINE and I'm a QA Engineer. 
 
-## Education
-<!-- Education:START -->
-- INTERNATIONAL SCIENTIFIC - EDUCATIONAL CENTER OF THE NAS RA  
-     Department of Finances
-   <br> Master's Degree
-    <br>  2010 - 2012
-    <br> 
-- YEREVAN STATE UNIVERSITY    
-  Department of Applied Mathematics and Informatics
-   <br> Bachelor Degree
-    <br> 2003 - 2007
-<!-- Education:END -->
-
-## Certification
-<!-- Certification:START -->
-- API Testing course at Qwallity  
-  <br> Date of Achievement: 09/03/2023
-  
-- Manual QA level at BDG    
-  <br> Date of Achievement: 29/01/2020
-<!-- Certification:END -->
 
 ### LANGUAGES
 ![Header](https://img.shields.io/badge/Java%20Script-090909?style=for-the-badge&logo=javascript&logoColor=7ede2b)
