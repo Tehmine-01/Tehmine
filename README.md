@@ -3,7 +3,7 @@
 
 ### Testing Documentation
 The works I presented are within the scope of one project. It is as follows:
-we have admin and non-admin users (with the possibility of registering and logging in) who can create courses and buy them according to their role.
+we have admin and non-admin users (with the possibility of register and log in) who can create courses and buy them according to their roles. The presentation is mainly about API's.
 - [Checklists](https://github.com/Tehmine-01/checklist)
 - [Test-Suites and Test-Cases](https://github.com/Tehmine-01/Test-Cases)
 - [Bug-Reports](https://trello.com/b/0B63meFm/bug-report)
@@ -15,7 +15,7 @@ we have admin and non-admin users (with the possibility of registering and loggi
 ### <b> Projects with TECHNOLOGIES
 ![Header](https://img.shields.io/badge/HTML-090909?style=for-the-badge&logo=html&logoColor=7ede2b)
 ![Header](https://img.shields.io/badge/CSS-090909?style=for-the-badge&logo=css&logoColor=7ede2b)
-<br>[Deferent view of CV example](https://github.com/Tehmine-01/CV_projects)
+<br> Deferent view of CV example․ Իf you want to see the works, click on the one you like․
 - [First work as a full page](https://tehmine-01.github.io/CV_1/)
 - [A little bit improved](https://tehmine-01.github.io/CV_2/)
 - [Mark the cup and it will spin](https://tehmine-01.github.io/CV-cup/)
