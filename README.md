@@ -2,7 +2,8 @@
 ## I'm TEHMINE and I'm a QA Engineer.
 
 ### Testing Documentation
-
+The works I presented are within the scope of one project. It is as follows:
+we have admin and non-admin users (with the possibility of registering and logging in) who can create courses and buy them according to their role.
 - [Checklists](https://github.com/Tehmine-01/checklist)
 - [Test-Suites and Test-Cases](https://github.com/Tehmine-01/Test-Cases)
 - [Bug-Reports](https://trello.com/b/0B63meFm/bug-report)
