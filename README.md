@@ -1,10 +1,15 @@
 
-## I'm TEHMINE and I'm a QA Engineer. 
+## I'm TEHMINE and I'm a QA Engineer.
+
+### Testing Documentation
+
+- [Checklists](https://github.com/Tehmine-01/checklist)
+- [Test-Suites and Test-Cases](https://github.com/Tehmine-01/Test-Cases)
+- [Bug-Reports](https://github.com/Tehmine-01/Bug-Reports)
+- [SQL Queries](https://docs.google.com/document/d/1zDkBccuRVOhIFpRzAOzRLFKhnFboC1qn/edit?usp=sharing&ouid=105953494420223822087&rtpof=true&sd=true)
+- [Postman Collections](https://github.com/Tehmine-01/Postman-Collections)
 
 
-### LANGUAGES
-![Header](https://img.shields.io/badge/Java%20Script-090909?style=for-the-badge&logo=javascript&logoColor=7ede2b)
-![Header](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python&logoColor=7ede2b)
 
 ### <b> Projects with TECHNOLOGIES
 ![Header](https://img.shields.io/badge/HTML-090909?style=for-the-badge&logo=html&logoColor=7ede2b)
@@ -15,13 +20,6 @@
 - [Mark the cup and it will spin](https://tehmine-01.github.io/CV-cup/)
 - [Page will come with ropes](https://tehmine-01.github.io/CV-rope/)
 
-### Testing Documentation
-
-- [Checklists](https://github.com/Tehmine-01/checklist)
-- [Test-Suites and Test-Cases](https://github.com/Tehmine-01/Test-Cases)
-- [Bug-Reports](https://github.com/Tehmine-01/Bug-Reports)
-- [SQL Queries](https://docs.google.com/document/d/1zDkBccuRVOhIFpRzAOzRLFKhnFboC1qn/edit?usp=sharing&ouid=105953494420223822087&rtpof=true&sd=true)
-- [Postman Collections](https://github.com/Tehmine-01/Postman-Collections)
 
 ### Tools
 ![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
