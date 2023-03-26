@@ -5,7 +5,7 @@
 
 - [Checklists](https://github.com/Tehmine-01/checklist)
 - [Test-Suites and Test-Cases](https://github.com/Tehmine-01/Test-Cases)
-- [Bug-Reports](https://github.com/Tehmine-01/Bug-Reports)
+- [Bug-Reports](https://trello.com/b/0B63meFm/bug-report)
 - [SQL Queries](https://docs.google.com/document/d/1zDkBccuRVOhIFpRzAOzRLFKhnFboC1qn/edit?usp=sharing&ouid=105953494420223822087&rtpof=true&sd=true)
 - [Postman Collections](https://github.com/Tehmine-01/Postman-Collections)
 
