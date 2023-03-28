@@ -1,5 +1,5 @@
 
-## I'm TEHMINE and I'm a QA Engineer.
+## As a QA engineer, my aim is to ensure that products meet or exceed the required standards of quality.By investing my technical and analytical skills I can help to ensure that products are of the highest possible quality before they reach the hands of customers.
 
 ### Testing Documentation
 The works I presented are within the scope of one project. It is as follows:
