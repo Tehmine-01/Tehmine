@@ -8,7 +8,7 @@ we have admin and non-admin users (with the possibility of register and log in) 
 - [Test-Suites and Test-Cases](https://github.com/Tehmine-01/Test-Cases)
 - [Bug-Reports](https://trello.com/b/0B63meFm/bug-report)
 - [SQL Queries](https://docs.google.com/document/d/1zDkBccuRVOhIFpRzAOzRLFKhnFboC1qn/edit?usp=sharing&ouid=105953494420223822087&rtpof=true&sd=true)
-- [Postman Collection](https://github.com/Tehmine-01/Postman collection)
+- [Postman collection](https://github.com/Tehmine-01/Postman-Collection)
 
 
 
