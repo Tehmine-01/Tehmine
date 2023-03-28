@@ -4,11 +4,11 @@
 ### Testing Documentation
 The works I presented are within the scope of one project. It is as follows:
 we have admin and non-admin users (with the possibility of register and log in) who can create courses and buy them according to their roles. The presentation is mainly about API's.
-- [Checklists](https://github.com/Tehmine-01/checklist)
+
 - [Test-Suites and Test-Cases](https://github.com/Tehmine-01/Test-Cases)
 - [Bug-Reports](https://trello.com/b/0B63meFm/bug-report)
 - [SQL Queries](https://docs.google.com/document/d/1zDkBccuRVOhIFpRzAOzRLFKhnFboC1qn/edit?usp=sharing&ouid=105953494420223822087&rtpof=true&sd=true)
-- [Postman Collections](https://github.com/Tehmine-01/Postman-Collections)
+- [Postman Collection](https://github.com/Tehmine-01/Postman-Collections)
 
 
 
