@@ -13,11 +13,13 @@ we have admin and non-admin users (with the possibility of register and log in) 
 
 
 ### <b> Projects with TECHNOLOGIES
+  <br> All jobs include a simple of the CV that improves with each subsequent job.<b>
 ![Header](https://img.shields.io/badge/HTML-090909?style=for-the-badge&logo=html&logoColor=7ede2b)
 ![Header](https://img.shields.io/badge/CSS-090909?style=for-the-badge&logo=css&logoColor=7ede2b)
-<br> Deferent view of CV example․ If you want to see the works, click on the one you like․
-- [First work as a full page](https://tehmine-01.github.io/CV_1/)
-- [A little bit improved](https://tehmine-01.github.io/CV_2/)
+  
+- [The work is HTML tables data present into rows and columns with borders,
+  sizes, headers, and other table attributes.  Also had have used  the CSS styles.](https://tehmine-01.github.io/CV_1/)
+- [An improved version of the above](https://tehmine-01.github.io/CV_2/)
 - [Mark the cup and it will spin](https://tehmine-01.github.io/CV-cup/)
 - [Page will come with ropes](https://tehmine-01.github.io/CV-rope/)
 
