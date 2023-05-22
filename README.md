@@ -13,7 +13,8 @@ we have admin and non-admin users (with the possibility of register and log in) 
 
 
 ### <b> Projects with TECHNOLOGIES
-  <br> All jobs include a simple of the CV that improves with each subsequent job.<b>
+  <br> All jobs include a simple of the CV that improves with each subsequent job.
+  <br>
 ![Header](https://img.shields.io/badge/HTML-090909?style=for-the-badge&logo=html&logoColor=7ede2b)
 ![Header](https://img.shields.io/badge/CSS-090909?style=for-the-badge&logo=css&logoColor=7ede2b)
   
