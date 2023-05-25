@@ -20,9 +20,9 @@ we have admin and non-admin users (with the possibility of register and log in) 
   
 - [The work is HTML tables data present into rows and columns with borders,
   sizes, headers, and other table attributes.  Also had have used  the CSS styles.](https://tehmine-01.github.io/CV_1/)
-- [An improved version of the above](https://tehmine-01.github.io/CV_2/)
-- [Mark the cup and it will spin](https://tehmine-01.github.io/CV-cup/)
-- [Page will come with ropes](https://tehmine-01.github.io/CV-rope/)
+- [Work related to styles, choosing the right colors, fonts, symmetry, changing screen sizes․](https://tehmine-01.github.io/CV_2/)
+- [The work is related to styles, drop down menu, check list, scroll and animation.](https://tehmine-01.github.io/CV-cup/)
+- [The work is related to check list,styles, drop down menu, scroll animation with ropes.](https://tehmine-01.github.io/CV-rope/)
 
 
 ### Tools
