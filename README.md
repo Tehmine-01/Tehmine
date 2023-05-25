@@ -18,11 +18,10 @@ we have admin and non-admin users (with the possibility of register and log in) 
 ![Header](https://img.shields.io/badge/HTML-090909?style=for-the-badge&logo=html&logoColor=7ede2b)
 ![Header](https://img.shields.io/badge/CSS-090909?style=for-the-badge&logo=css&logoColor=7ede2b)
   
-- [The work is HTML tables data present into rows and columns with borders,
-  sizes, headers, and other table attributes.  Also had have used  the CSS styles.](https://tehmine-01.github.io/CV_1/)
+- [The work is tables data  into rows and columns with borders, sizes, headers, and other table attributes. Also was used styles.](https://tehmine-01.github.io/CV_1/)
 - [Work related to styles, choosing the right colors, fonts, symmetry, changing screen sizes․](https://tehmine-01.github.io/CV_2/)
 - [The work is related to styles, drop down menu, check list, scroll, animation and adaptive landing page.](https://tehmine-01.github.io/CV-cup/)
-- [The work is related to check list,styles, drop down menu, scroll, adaptive landing page and animation with ropes.](https://tehmine-01.github.io/CV-rope/)
+- [The work is related to check list, styles, drop down menu, scroll, adaptive landing page and animation with ropes.](https://tehmine-01.github.io/CV-rope/)
 
 
 ### Tools
